@@ -36,6 +36,6 @@ int main() {
     }
 
     return 0;
-}
+    }
 Prime numbers between 10 and 50 are:
 11 13 17 19 23 29 31 37 41 43 47
