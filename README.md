@@ -3,10 +3,11 @@ Question:
 
 1.Write a C program to print all prime numbers between two limits.
 
-Code:
 #include <stdio.h>
 
 int main() {
+    
+    
     int lower, upper, i, j, prime;
 
     printf("Enter lower limit: ");
@@ -36,8 +37,5 @@ int main() {
 
     return 0;
 }
-OUTPUT
-Enter lower limit: 10
-Enter upper limit: 50
 Prime numbers between 10 and 50 are:
 11 13 17 19 23 29 31 37 41 43 47
